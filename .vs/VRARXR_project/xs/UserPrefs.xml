@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{02632CCA-319C-D854-41FA-57EC31941D7C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Collectable.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="114" Column="34" />
+      <File FileName="Assets/Supercyan Character Pack Animal People Sample/Scripts/AccessoryWearLogic.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerItem.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DestroyableObject.cs" Line="20" Column="25" />
+      <File FileName="Assets/Scripts/Collectable.cs" Line="92" Column="77" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="470cfc5e-1d48-4f0f-82e0-9180b5d731b9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
