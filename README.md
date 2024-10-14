@@ -40,7 +40,7 @@
 ---
 
 ## 📑 기획서/구현방법
-- [📂 발표 ppt](unity_interaction_term_project.pdf)
+- [📂 발표 ppt](./unity_interaction_term_project.pdf)
 
 ---
 
